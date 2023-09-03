@@ -1,3 +1,3 @@
-# Leetcode and GFG
+# Leetcode 
 
-This repository will contain solutions of Leetcode and GFG POTD
+This repository will contain solutions of Leetcode 
